@@ -1,0 +1,92 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "chap_03",
+            "request": "launch",
+            "mainClass": "data03.chap_03",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "chap_02",
+            "request": "launch",
+            "mainClass": "data03.chap_02",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_03",
+            "request": "launch",
+            "mainClass": "week01.task_03",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "chap_01",
+            "request": "launch",
+            "mainClass": "data03.chap_01",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "chap_03",
+            "request": "launch",
+            "mainClass": "chap_03",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "chap_02",
+            "request": "launch",
+            "mainClass": "chap_02",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "chap_01",
+            "request": "launch",
+            "mainClass": "chap_01",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_08",
+            "request": "launch",
+            "mainClass": "week02.task_08",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_06",
+            "request": "launch",
+            "mainClass": "week02.task_06",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_09",
+            "request": "launch",
+            "mainClass": "week02.task_09",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_10",
+            "request": "launch",
+            "mainClass": "week02.task_10",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "localhost에 대해 Chrome 시작",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
