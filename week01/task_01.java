@@ -19,8 +19,8 @@ public class task_01 {
         char v6 = 'A';
         char v7 = 1;
         int result4 = v6 + v7; // int 타입으로 변환 후 연산
-        System.out.println("result4: "  + result4);
-        System.out.println("result4: "  + (char)result4);
+        System.out.println("result4: " + result4);
+        System.out.println("result4: " + (char) result4);
 
         int v8 = 10;
         int result5 = v8 / 4; // 정수 연산의 결과는 정수

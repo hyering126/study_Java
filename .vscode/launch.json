@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "task_12",
+            "request": "launch",
+            "mainClass": "week02.task_12",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_11",
+            "request": "launch",
+            "mainClass": "week02.task_11",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
             "name": "chap_03",
             "request": "launch",
             "mainClass": "data03.chap_03",

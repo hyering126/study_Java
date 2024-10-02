@@ -16,8 +16,8 @@ public class task_09 {
                 score1 = 60;
         }
         System.out.println("score1: " + score1);
-        int score2 = switch(grade) {
-            case "A" -> 100; 
+        int score2 = switch (grade) {
+            case "A" -> 100;
             case "B" -> {
                 int result = 100 - 20;
                 yield result;
@@ -25,6 +25,5 @@ public class task_09 {
             default -> 60;
         };
         System.out.println("score2: " + score2);
-        }
     }
-
+}
