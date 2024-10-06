@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "task_20",
+            "request": "launch",
+            "mainClass": "week02.task_20",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_18",
+            "request": "launch",
+            "mainClass": "week02.task_18",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_19",
+            "request": "launch",
+            "mainClass": "week02.task_19",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task18",
+            "request": "launch",
+            "mainClass": "week02.task18",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_17",
+            "request": "launch",
+            "mainClass": "week02.task_17",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_16",
+            "request": "launch",
+            "mainClass": "week02.task_16",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_13",
+            "request": "launch",
+            "mainClass": "week02.task_13",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_15",
+            "request": "launch",
+            "mainClass": "week02.task_15",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_14",
+            "request": "launch",
+            "mainClass": "week02.task_14",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
             "name": "task_12",
             "request": "launch",
             "mainClass": "week02.task_12",
