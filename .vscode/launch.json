@@ -6,6 +6,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "task_16",
+            "request": "launch",
+            "mainClass": "week03.task_16",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_15",
+            "request": "launch",
+            "mainClass": "week03.task_15",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_14",
+            "request": "launch",
+            "mainClass": "week03.task_14",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_13",
+            "request": "launch",
+            "mainClass": "week03.task_13",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_12",
+            "request": "launch",
+            "mainClass": "week03.task_12",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_11",
+            "request": "launch",
+            "mainClass": "week03.task_11",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_10",
+            "request": "launch",
+            "mainClass": "week03.task_10",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_09",
+            "request": "launch",
+            "mainClass": "week03.task_09",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_08",
+            "request": "launch",
+            "mainClass": "week03.task_08",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_17",
+            "request": "launch",
+            "mainClass": "week03.task_17",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_06",
+            "request": "launch",
+            "mainClass": "week03.task_06",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_05",
+            "request": "launch",
+            "mainClass": "week03.task_05",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_04",
+            "request": "launch",
+            "mainClass": "week03.task_04",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_03",
+            "request": "launch",
+            "mainClass": "week03.task_03",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_02",
+            "request": "launch",
+            "mainClass": "week03.task_02",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_01",
+            "request": "launch",
+            "mainClass": "week03.task_01",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
             "name": "ex_06",
             "request": "launch",
             "mainClass": "week03.ex_06",
