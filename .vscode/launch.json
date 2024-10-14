@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "task_15",
+            "request": "launch",
+            "mainClass": "week05.task_15",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_14",
+            "request": "launch",
+            "mainClass": "week05.task_14",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_12",
+            "request": "launch",
+            "mainClass": "week05.task_12",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_10",
+            "request": "launch",
+            "mainClass": "week05.task_10",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_08",
+            "request": "launch",
+            "mainClass": "week05.task_08",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_06",
+            "request": "launch",
+            "mainClass": "week05.task_06",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_06",
+            "request": "launch",
+            "mainClass": "week04.task_06",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "task_02",
+            "request": "launch",
+            "mainClass": "week04.task_02",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
             "name": "task_16",
             "request": "launch",
             "mainClass": "week03.task_16",
