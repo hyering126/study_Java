@@ -4,7 +4,7 @@ package week06;
 import week06.package_01.A1;
 import week06.package_02.A2;
 
-public class task_05 {
+public class task_01 {
     // 부품 필드 선언
     week06.package_01.B1 tk1 = new week06.package_01.B1();
     week06.package_02.B2 tk2 = new week06.package_02.B2();
