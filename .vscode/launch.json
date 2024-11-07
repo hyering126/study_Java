@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "week10.package_09.test",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "ServiceExample",
+            "request": "launch",
+            "mainClass": "week10.package_09.ServiceExample",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
+            "name": "RemoteControlExample",
+            "request": "launch",
+            "mainClass": "week10.package_08.RemoteControlExample",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
             "name": "Run",
             "request": "launch",
             "mainClass": "week07.package_03.Run",
