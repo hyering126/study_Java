@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "task_12",
+            "request": "launch",
+            "mainClass": "week12.task_12",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
             "name": "test",
             "request": "launch",
             "mainClass": "week10.package_09.test",
