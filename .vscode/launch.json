@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RandomExample",
+            "request": "launch",
+            "mainClass": "week13.package_10.RandomExample",
+            "projectName": "study_Java_bd897613"
+        },
+        {
+            "type": "java",
             "name": "task_12",
             "request": "launch",
             "mainClass": "week12.task_12",
